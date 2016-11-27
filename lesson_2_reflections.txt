@@ -1,0 +1,3 @@
+What happens when you initialize a repository?Why do you need to do it?
+WHen we initialize a repository .git file is created.
+nitialized empty Git repository in C:/Users/procoder/Documents/git/reflections/.git/
