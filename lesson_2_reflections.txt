@@ -1,5 +1,7 @@
 What happens when you initialize a repository?Why do you need to do it?
 WHen we initialize a repository .git file is created.
 How can you use the staging area to make sure you have one commit per logical change?
+What are some situations when branches would be ehlpful in keeping your historyorganized?How would branches help?
+How do the diagrams help you visualize the branch structure?
 
 nitialized empty Git repository in C:/Users/procoder/Documents/git/reflections/.git/
